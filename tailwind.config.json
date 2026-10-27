@@ -1,0 +1,16 @@
+{
+  "content": [
+    "./index.html",
+    "./src/**/*.{js,ts,jsx,tsx}"
+  ],
+  "theme": {
+    "extend": {
+      "colors": {
+        "darkBg": "#0b0c10",
+        "cardBg": "#12141a",
+        "borderGlow": "#232733"
+      }
+    }
+  },
+  "plugins": []
+}
