@@ -1,16 +1,43 @@
-# React + Vite
+# 🧠 Portfolio - Pragati Tiwari
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+> An interactive, high-performance, and futuristic personal portfolio designed with an AI/ML and cyber-system aesthetic. 
 
-Currently, two official plugins are available:
+[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Website-22d3ee?style=for-the-badge)](https://your-portfolio-link.vercel.app)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
+[![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue)]()
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🚀 About The Project
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This repository contains the source code for my professional portfolio. Moving away from static templates, this project acts as a live demonstration of frontend engineering, mathematical animations (HTML5 Canvas), and modern UI/UX principles tailored for an **AI & Machine Learning Engineer**.
 
-## Expanding the Oxlint configuration
+### ✨ Core Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+- **Generative Neural Canvas:** A 3D interactive background of floating neurons and synapses that react to mouse movements using native HTML5 Canvas.
+- **AI Cipher Scramble:** A Matrix/Jarvis-inspired text decoding effect applied to the footer typography.
+- **Dynamic Career Roadmap:** An auto-iterating and hover-interactive tree showcasing academic and professional progression.
+- **Ambient Project Showcases:** Infinite auto-scrolling project cards with watermark cutouts, gradient masking, and hover-to-pause interactions.
+- **Interactive 3D Flip Card:** An Instagram-style profile card with a 3D flip animation revealing an AI Avatar backend.
+- **Theme System:** Seamless Dark / Light mode toggle engineered for optimal contrast and recruiter readability.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Framework:** React.js (Vite)
+- **Styling:** Tailwind CSS
+- **Animations:** Framer Motion
+- **Graphics/Canvas:** HTML5 `<canvas>` API (Zero external 3D libraries)
+- **Icons:** Lucide React
+
+---
+
+## ⚙️ Run Locally
+
+Want to explore the code or run this system on your local machine?
+
+**1. Clone the repository**
+```bash
+git clone [https://github.com/PRAGATI-TIWARI-24/neural-portfolio.git](https://github.com/PRAGATI-TIWARI-24/my-portfolio.git)
